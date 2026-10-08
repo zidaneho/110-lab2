@@ -1,9 +1,9 @@
 export const MY_SNACKS: string[] = [
   "Doritos",
-  "Rice",
-  "Seaweed",
-  "French Fries",
-  "Popcorn",
+//  "Rice",
+//  "Seaweed",
+//  "French Fries",
+//  "Popcorn",
 ];
 
 export function getSnacks() {
