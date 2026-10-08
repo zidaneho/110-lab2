@@ -4,5 +4,8 @@
   },
   "scripts": {
     "test": "vitest run"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
   }
 }
