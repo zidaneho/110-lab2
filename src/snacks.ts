@@ -5,6 +5,7 @@ const MY_SNACKS: string[] = [
   "Seaweed",
   "French Fries",
   "Popcorn",
+  "Pockys"
 ];
 
 export function getSnacks() {
