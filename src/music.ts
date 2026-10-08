@@ -6,4 +6,4 @@ export function printSongs(): void {
   }
 }
 
-printSongs();
+// printSongs();
