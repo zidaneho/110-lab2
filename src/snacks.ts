@@ -1,4 +1,4 @@
-const MY_SNACKS: string[] = [
+export const MY_SNACKS: string[] = [
   "Doritos",
   "Rice",
   "Seaweed",
